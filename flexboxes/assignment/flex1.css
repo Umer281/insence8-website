@@ -1,0 +1,21 @@
+.con1{ 
+  display: flexbox;
+  flex-wrap: wrap;
+  align-items: stretch;
+  margin: 10px;
+  height: 60px;
+  width: 50px;
+  background-color: burlywood;
+
+}
+.con2{ 
+    display: flexbox;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin: 10px;
+    height: 60px;
+    width:50px;
+    background-color: chartreuse;
+
+}
+

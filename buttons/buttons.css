@@ -1,0 +1,31 @@
+div.butn{ 
+  margin:50pt;
+  padding: 20pt;
+  background-color: sandybrown;
+  box-shadow:gray 10pt 10pt 10pt;
+  height: 50pt;
+  width: 200pt;
+  font-size: 20pt;
+  border-radius: 10pt;
+  transition: 0.8ms;
+  
+  
+
+
+
+}
+
+
+div.butn:hover{ 
+   transform: translate(-10pt,-10pt);
+   box-shadow: 20pt 20pt 10pt;
+   transition: 5s;
+}
+div.butn:active{ 
+ transform: translate(5pt,5pt);
+ box-shadow:gray 5pt 5pt 3pt;
+ transition: 0.2ms;
+
+
+}
+

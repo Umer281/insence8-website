@@ -1,0 +1,22 @@
+.box{ 
+    height:100px;
+    width: 100px;
+    margin: 20px;
+    background-color: mediumslateblue;
+}
+
+
+@media (max-width: 900px){ 
+  .box{ 
+      background-color: pink;
+      float:  inline-end;
+    
+  }
+}
+@media(max-width:700px){ 
+    .box{ 
+        transform: translateY(700px);
+      background-color:black;
+
+    }
+}

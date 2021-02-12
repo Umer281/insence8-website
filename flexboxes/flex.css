@@ -1,0 +1,33 @@
+.container{ 
+    display: flex;
+    margin: 10pt;
+    height: 400pt;
+    width: 400pt;
+    background-color:brown;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: center;  /*how items within row are aligned in order*/
+    align-items: flex-start;   /*how items in a row are alimged perpendicularly  */
+    align-content: flex-end; /*how all rows are aligned*/   
+        
+
+}
+
+
+
+.box{ 
+
+  border: 2pt dotted maroon;
+ margin: 10pt;
+ height: 50pt;
+ width: 50pt;
+ background-color:lightblue;
+ 
+ 
+}
+.text{ 
+    text-align: end;
+    color:red;
+}
+
+

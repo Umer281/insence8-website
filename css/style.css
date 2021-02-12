@@ -1,0 +1,36 @@
+div{ 
+    color: blue;
+    font-size: 30pt;
+
+
+}
+
+p{  
+  
+    color: brown;
+    font-size: medium;
+
+
+}
+
+h2{ 
+ color: cyan;
+
+}
+.big{ 
+    background-color: darkgreen;
+    font-size: x-large;
+}
+#p2{ 
+  margin-left: 100pt;
+  -webkit-margin-bottom-collapse: collapse;
+  color: blueviolet;
+  font: xx-large;
+}
+p+h3 { 
+ 
+margin-bottom: 40;
+ color: coral;
+ 
+
+}
