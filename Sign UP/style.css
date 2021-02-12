@@ -1,0 +1,63 @@
+#first_col{ 
+    height: 1000px;
+    padding-top: 300px;
+    text-align: center;
+    background-color: lightgreen;
+}
+.small-text{ 
+    
+    font-size: smaller;
+}
+
+
+.larger-text{ 
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+#padright{ 
+    padding-right: 450px;
+}
+/* this ln is for forgot password link */
+#ln{   
+    text-align: end;
+    padding-left: 400px;
+    color: green;
+    font-size: small;
+}
+/* for 2nd col  */
+#sec_col{ 
+    padding-top: 220px;
+}
+.form{ 
+    padding-top: 50px;
+}
+/* for fb btn */
+ #fb_btn{  
+     /* padding-left: 100px; */
+    color: blue;
+} 
+
+/* for twitter btn */
+#tw_btn{ 
+    
+    color:cyan;
+} 
+
+#g-btn{ 
+   background-color: orangered;
+   width: 300px;
+}
+#signup-link{ 
+    padding-bottom: 400px;
+    text-align: end;
+}
+ #btn_signin{ 
+    background-color: darkgreen;
+} 
